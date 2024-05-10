@@ -1,0 +1,8 @@
+[
+  "test_admin.py::TestAdmin::test_adminflow",
+  "test_admin.py::TestAdmin::test_login",
+  "test_admin.py::TestOrangeLogin::test_login",
+  "test_facebook_login.py::TestFacebook::test_login",
+  "test_orangeHRM_login.py::TestOrangeLogin::test_login",
+  "test_pim.py::Test_PIM::test_pim_page"
+]

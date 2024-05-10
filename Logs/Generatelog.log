@@ -1,0 +1,729 @@
+
+2024-05-10 15:12:11,107 - INFO - Invoke the browser
+2024-05-10 15:12:11,107 - INFO - Invoke the browser
+2024-05-10 15:12:11,322 - INFO - complete exicution
+2024-05-10 15:12:11,322 - INFO - complete exicution
+2024-05-10 15:13:41,581 - INFO - Invoke the browser
+2024-05-10 15:13:41,581 - INFO - Invoke the browser
+2024-05-10 15:13:42,787 - INFO - complete exicution
+2024-05-10 15:13:42,787 - INFO - complete exicution
+2024-05-10 15:14:35,725 - INFO - Invoke the browser
+2024-05-10 15:14:35,725 - INFO - Invoke the browser
+2024-05-10 15:14:35,961 - INFO - complete exicution
+2024-05-10 15:14:35,961 - INFO - complete exicution
+2024-05-10 15:14:57,899 - INFO - Invoke the browser
+2024-05-10 15:14:57,899 - INFO - Invoke the browser
+2024-05-10 15:14:58,129 - INFO - complete exicution
+2024-05-10 15:14:58,129 - INFO - complete exicution
+2024-05-10 15:15:53,970 - INFO - Invoke the browser
+2024-05-10 15:15:53,970 - INFO - Invoke the browser
+2024-05-10 15:15:54,183 - INFO - complete exicution
+2024-05-10 15:15:54,183 - INFO - complete exicution
+2024-05-10 15:17:05,091 - INFO - Invoke the browser
+2024-05-10 15:17:05,091 - INFO - Invoke the browser
+2024-05-10 15:17:05,331 - INFO - complete exicution
+2024-05-10 15:17:05,331 - INFO - complete exicution
+2024-05-10 15:17:44,027 - INFO - Invoke the browser
+2024-05-10 15:17:44,027 - INFO - Invoke the browser
+2024-05-10 15:17:44,315 - INFO - complete exicution
+2024-05-10 15:17:44,315 - INFO - complete exicution
+2024-05-10 15:18:06,352 - INFO - Invoke the browser
+2024-05-10 15:18:06,352 - INFO - Invoke the browser
+2024-05-10 15:18:06,637 - INFO - complete exicution
+2024-05-10 15:18:06,637 - INFO - complete exicution
+2024-05-10 15:20:41,619 - INFO - Invoke the browser
+2024-05-10 15:20:41,619 - INFO - Invoke the browser
+2024-05-10 15:20:41,908 - INFO - complete exicution
+2024-05-10 15:20:41,908 - INFO - complete exicution
+2024-05-10 15:21:32,645 - INFO - Invoke the browser
+2024-05-10 15:21:32,645 - INFO - Invoke the browser
+2024-05-10 15:21:32,891 - INFO - complete exicution
+2024-05-10 15:21:32,891 - INFO - complete exicution
+2024-05-10 15:23:01,118 - INFO - Invoke the browser
+2024-05-10 15:23:01,118 - INFO - Invoke the browser
+2024-05-10 15:23:01,350 - INFO - complete exicution
+2024-05-10 15:23:01,350 - INFO - complete exicution
+2024-05-10 15:23:37,417 - INFO - Invoke the browser
+2024-05-10 15:23:37,417 - INFO - Invoke the browser
+2024-05-10 15:23:37,787 - INFO - complete exicution
+2024-05-10 15:23:37,787 - INFO - complete exicution
+2024-05-10 15:24:07,750 - INFO - Invoke the browser
+2024-05-10 15:24:07,750 - INFO - Invoke the browser
+2024-05-10 15:24:08,092 - INFO - complete exicution
+2024-05-10 15:24:08,092 - INFO - complete exicution
+2024-05-10 15:52:14,559 - INFO - *******Invoke the browser*********
+2024-05-10 15:52:15,002 - INFO - **********Entering user name**********
+2024-05-10 15:52:15,141 - INFO - ***********Entering the password*********
+2024-05-10 15:52:15,205 - INFO - *************Click on login button***********
+2024-05-10 15:58:09,538 - INFO - *******Invoke the browser*********
+2024-05-10 15:58:09,952 - INFO - **********Entering user name**********
+2024-05-10 15:58:10,034 - INFO - ***********Entering the password*********
+2024-05-10 15:58:11,202 - INFO - *************Click on login button***********
+2024-05-10 15:59:10,752 - INFO - *******Invoke the browser*********
+2024-05-10 15:59:11,585 - INFO - **********Entering user name**********
+2024-05-10 15:59:11,678 - INFO - ***********Entering the password*********
+2024-05-10 15:59:12,943 - INFO - *************Click on login button***********
+2024-05-10 16:00:34,135 - INFO - *******Invoke the browser*********
+2024-05-10 16:00:34,572 - INFO - **********Entering user name**********
+2024-05-10 16:00:34,653 - INFO - ***********Entering the password*********
+2024-05-10 16:00:34,749 - INFO - *************Click on login button***********
+2024-05-10 16:01:09,906 - INFO - *******Invoke the browser*********
+2024-05-10 16:01:10,317 - INFO - **********Entering user name**********
+2024-05-10 16:01:10,391 - INFO - ***********Entering the password*********
+2024-05-10 16:01:11,529 - INFO - *************Click on login button***********
+2024-05-10 16:01:48,392 - INFO - *******Invoke the browser*********
+2024-05-10 16:01:48,814 - INFO - **********Entering user name**********
+2024-05-10 16:01:48,880 - INFO - ***********Entering the password*********
+2024-05-10 16:01:48,921 - INFO - *************Click on login button***********
+2024-05-10 16:02:27,689 - INFO - *******Invoke the browser*********
+2024-05-10 16:02:28,113 - INFO - **********Entering user name**********
+2024-05-10 16:02:28,178 - INFO - ***********Entering the password*********
+2024-05-10 16:02:29,278 - INFO - *************Click on login button***********
+2024-05-10 16:02:51,176 - INFO - *******Invoke the browser*********
+2024-05-10 16:02:51,649 - INFO - **********Entering user name**********
+2024-05-10 16:02:51,717 - INFO - ***********Entering the password*********
+2024-05-10 16:02:52,877 - INFO - *************Click on login button***********
+2024-05-10 16:11:13,388 - INFO - *******Invoke the browser*********
+2024-05-10 16:11:13,848 - INFO - **********Entering user name**********
+2024-05-10 16:11:13,947 - INFO - ***********Entering the password*********
+2024-05-10 16:11:15,164 - INFO - *************Click on login button***********
+2024-05-10 16:11:42,117 - INFO - *******Invoke the browser*********
+2024-05-10 16:11:44,376 - INFO - **********Entering user name**********
+2024-05-10 16:11:44,445 - INFO - ***********Entering the password*********
+2024-05-10 16:11:45,535 - INFO - *************Click on login button***********
+2024-05-10 16:12:45,562 - INFO - *******Invoke the browser*********
+2024-05-10 16:12:47,864 - INFO - *******Invoke the browser*********
+2024-05-10 16:12:48,377 - INFO - **********Entering user name**********
+2024-05-10 16:12:48,635 - INFO - **********Entering user name**********
+2024-05-10 16:12:48,688 - INFO - ***********Entering the password*********
+2024-05-10 16:12:48,711 - INFO - ***********Entering the password*********
+2024-05-10 16:12:49,882 - INFO - *************Click on login button***********
+2024-05-10 16:12:49,900 - INFO - *************Click on login button***********
+2024-05-10 16:13:06,032 - INFO - *******Invoke the browser*********
+2024-05-10 16:13:06,338 - INFO - *******Invoke the browser*********
+2024-05-10 16:13:06,543 - INFO - **********Entering user name**********
+2024-05-10 16:13:06,724 - INFO - ***********Entering the password*********
+2024-05-10 16:13:06,901 - INFO - **********Entering user name**********
+2024-05-10 16:13:07,059 - INFO - ***********Entering the password*********
+2024-05-10 16:13:08,029 - INFO - *************Click on login button***********
+2024-05-10 16:13:08,249 - INFO - *************Click on login button***********
+2024-05-10 16:22:40,365 - INFO - *******Invoke the browser*********
+2024-05-10 16:22:40,761 - INFO - **********Entering user name**********
+2024-05-10 16:22:40,829 - INFO - ***********Entering the password*********
+2024-05-10 16:22:42,050 - INFO - *************Click on login button***********
+2024-05-10 16:22:46,543 - INFO - *******Invoke the browser*********
+2024-05-10 16:22:46,543 - INFO - *******Invoke the browser*********
+2024-05-10 16:22:47,003 - INFO - **********Entering user name**********
+2024-05-10 16:22:47,003 - INFO - **********Entering user name**********
+2024-05-10 16:22:47,084 - INFO - ***********Entering the password*********
+2024-05-10 16:22:47,084 - INFO - ***********Entering the password*********
+2024-05-10 16:22:48,203 - INFO - *************Click on login button***********
+2024-05-10 16:22:48,203 - INFO - *************Click on login button***********
+2024-05-10 16:23:46,623 - INFO - *******Invoke the browser*********
+2024-05-10 16:23:47,052 - INFO - **********Entering user name**********
+2024-05-10 16:23:47,123 - INFO - ***********Entering the password*********
+2024-05-10 16:23:47,222 - INFO - *************Click on login button***********
+2024-05-10 16:23:52,928 - INFO - *******Invoke the browser*********
+2024-05-10 16:23:52,928 - INFO - *******Invoke the browser*********
+2024-05-10 16:23:53,406 - INFO - **********Entering user name**********
+2024-05-10 16:23:53,406 - INFO - **********Entering user name**********
+2024-05-10 16:23:53,490 - INFO - ***********Entering the password*********
+2024-05-10 16:23:53,490 - INFO - ***********Entering the password*********
+2024-05-10 16:23:54,632 - INFO - *************Click on login button***********
+2024-05-10 16:23:54,632 - INFO - *************Click on login button***********
+2024-05-10 16:23:59,748 - INFO - *******Invoke the browser*********
+2024-05-10 16:23:59,748 - INFO - *******Invoke the browser*********
+2024-05-10 16:23:59,748 - INFO - *******Invoke the browser*********
+2024-05-10 16:24:00,170 - INFO - **********Entering user name**********
+2024-05-10 16:24:00,170 - INFO - **********Entering user name**********
+2024-05-10 16:24:00,170 - INFO - **********Entering user name**********
+2024-05-10 16:24:00,236 - INFO - ***********Entering the password*********
+2024-05-10 16:24:00,236 - INFO - ***********Entering the password*********
+2024-05-10 16:24:00,236 - INFO - ***********Entering the password*********
+2024-05-10 16:24:01,355 - INFO - *************Click on login button***********
+2024-05-10 16:24:01,355 - INFO - *************Click on login button***********
+2024-05-10 16:24:01,355 - INFO - *************Click on login button***********
+2024-05-10 16:24:43,915 - INFO - *******Invoke the browser*********
+2024-05-10 16:24:44,354 - INFO - **********Entering user name**********
+2024-05-10 16:24:44,434 - INFO - ***********Entering the password*********
+2024-05-10 16:24:44,510 - INFO - *************Click on login button***********
+2024-05-10 16:24:50,013 - INFO - *******Invoke the browser*********
+2024-05-10 16:24:50,013 - INFO - *******Invoke the browser*********
+2024-05-10 16:24:50,426 - INFO - **********Entering user name**********
+2024-05-10 16:24:50,426 - INFO - **********Entering user name**********
+2024-05-10 16:24:50,496 - INFO - ***********Entering the password*********
+2024-05-10 16:24:50,496 - INFO - ***********Entering the password*********
+2024-05-10 16:24:51,579 - INFO - *************Click on login button***********
+2024-05-10 16:24:51,579 - INFO - *************Click on login button***********
+2024-05-10 16:24:56,774 - INFO - *******Invoke the browser*********
+2024-05-10 16:24:56,774 - INFO - *******Invoke the browser*********
+2024-05-10 16:24:56,774 - INFO - *******Invoke the browser*********
+2024-05-10 16:24:57,212 - INFO - **********Entering user name**********
+2024-05-10 16:24:57,212 - INFO - **********Entering user name**********
+2024-05-10 16:24:57,212 - INFO - **********Entering user name**********
+2024-05-10 16:24:57,291 - INFO - ***********Entering the password*********
+2024-05-10 16:24:57,291 - INFO - ***********Entering the password*********
+2024-05-10 16:24:57,291 - INFO - ***********Entering the password*********
+2024-05-10 16:24:58,415 - INFO - *************Click on login button***********
+2024-05-10 16:24:58,415 - INFO - *************Click on login button***********
+2024-05-10 16:24:58,415 - INFO - *************Click on login button***********
+2024-05-10 16:27:08,444 - INFO - *******Invoke the browser*********
+2024-05-10 16:27:12,494 - INFO - **********Entering user name**********
+2024-05-10 16:27:12,574 - INFO - ***********Entering the password*********
+2024-05-10 16:27:13,781 - INFO - *************Click on login button***********
+2024-05-10 16:28:04,284 - INFO - *******Invoke the browser*********
+2024-05-10 16:28:17,743 - INFO - *******Invoke the browser*********
+2024-05-10 16:28:18,164 - INFO - **********Entering user name**********
+2024-05-10 16:28:18,248 - INFO - ***********Entering the password*********
+2024-05-10 16:28:18,335 - INFO - *************Click on login button***********
+2024-05-10 16:28:56,143 - INFO - *******Invoke the browser*********
+2024-05-10 16:28:57,208 - INFO - **********Entering user name**********
+2024-05-10 16:28:57,649 - INFO - ***********Entering the password*********
+2024-05-10 16:28:59,072 - INFO - *************Click on login button***********
+2024-05-10 16:40:19,645 - INFO - *******Invoke the browser*********
+2024-05-10 16:40:20,060 - INFO - **********Entering user name**********
+2024-05-10 16:40:20,127 - INFO - ***********Entering the password*********
+2024-05-10 16:40:21,278 - INFO - *************Click on login button***********
+2024-05-10 16:41:37,012 - INFO - *******Invoke the browser*********
+2024-05-10 16:41:39,158 - INFO - **********Entering user name**********
+2024-05-10 16:41:39,226 - INFO - ***********Entering the password*********
+2024-05-10 16:41:40,437 - INFO - *************Click on login button***********
+2024-05-10 16:42:17,803 - INFO - *******Invoke the browser*********
+2024-05-10 16:42:19,945 - INFO - **********Entering user name**********
+2024-05-10 16:42:20,007 - INFO - ***********Entering the password*********
+2024-05-10 16:42:21,219 - INFO - *************Click on login button***********
+2024-05-10 16:42:48,590 - INFO - *******Invoke the browser*********
+2024-05-10 16:42:49,162 - INFO - **********Entering user name**********
+2024-05-10 16:42:49,241 - INFO - ***********Entering the password*********
+2024-05-10 16:42:50,446 - INFO - *************Click on login button***********
+2024-05-10 16:54:17,181 - INFO - *******Invoke the browser*********
+2024-05-10 16:54:17,653 - INFO - **********Entering user name**********
+2024-05-10 16:54:17,720 - INFO - ***********Entering the password*********
+2024-05-10 16:54:18,857 - INFO - *************Click on login button***********
+2024-05-10 16:54:42,166 - INFO - *******Invoke the browser*********
+2024-05-10 16:54:44,189 - INFO - **********Entering user name**********
+2024-05-10 16:54:44,254 - INFO - ***********Entering the password*********
+2024-05-10 16:54:45,441 - INFO - *************Click on login button***********
+2024-05-10 16:59:33,326 - INFO - *******Invoke the browser*********
+2024-05-10 16:59:33,326 - INFO - *******Invoke the browser*********
+2024-05-10 16:59:33,880 - INFO - **********Entering user name**********
+2024-05-10 16:59:33,880 - INFO - **********Entering user name**********
+2024-05-10 16:59:33,968 - INFO - ***********Entering the password*********
+2024-05-10 16:59:33,968 - INFO - ***********Entering the password*********
+2024-05-10 16:59:35,156 - INFO - *************Click on login button***********
+2024-05-10 16:59:35,156 - INFO - *************Click on login button***********
+2024-05-10 16:59:39,738 - INFO - *******Invoke the browser*********
+2024-05-10 16:59:39,738 - INFO - *******Invoke the browser*********
+2024-05-10 16:59:39,738 - INFO - *******Invoke the browser*********
+2024-05-10 16:59:40,269 - INFO - **********Entering user name**********
+2024-05-10 16:59:40,269 - INFO - **********Entering user name**********
+2024-05-10 16:59:40,269 - INFO - **********Entering user name**********
+2024-05-10 16:59:40,386 - INFO - ***********Entering the password*********
+2024-05-10 16:59:40,386 - INFO - ***********Entering the password*********
+2024-05-10 16:59:40,386 - INFO - ***********Entering the password*********
+2024-05-10 16:59:40,468 - INFO - *************Click on login button***********
+2024-05-10 16:59:40,468 - INFO - *************Click on login button***********
+2024-05-10 16:59:40,468 - INFO - *************Click on login button***********
+2024-05-10 16:59:48,596 - INFO - *******Invoke the browser*********
+2024-05-10 16:59:48,596 - INFO - *******Invoke the browser*********
+2024-05-10 16:59:48,596 - INFO - *******Invoke the browser*********
+2024-05-10 16:59:48,596 - INFO - *******Invoke the browser*********
+2024-05-10 16:59:49,071 - INFO - **********Entering user name**********
+2024-05-10 16:59:49,071 - INFO - **********Entering user name**********
+2024-05-10 16:59:49,071 - INFO - **********Entering user name**********
+2024-05-10 16:59:49,071 - INFO - **********Entering user name**********
+2024-05-10 16:59:49,172 - INFO - ***********Entering the password*********
+2024-05-10 16:59:49,172 - INFO - ***********Entering the password*********
+2024-05-10 16:59:49,172 - INFO - ***********Entering the password*********
+2024-05-10 16:59:49,172 - INFO - ***********Entering the password*********
+2024-05-10 16:59:50,655 - INFO - *************Click on login button***********
+2024-05-10 16:59:50,655 - INFO - *************Click on login button***********
+2024-05-10 16:59:50,655 - INFO - *************Click on login button***********
+2024-05-10 16:59:50,655 - INFO - *************Click on login button***********
+2024-05-10 16:59:55,836 - INFO - Invoke the browser
+2024-05-10 16:59:55,836 - INFO - Invoke the browser
+2024-05-10 16:59:55,836 - INFO - Invoke the browser
+2024-05-10 16:59:55,836 - INFO - Invoke the browser
+2024-05-10 16:59:55,836 - INFO - Invoke the browser
+2024-05-10 16:59:56,084 - INFO - complete exicution
+2024-05-10 16:59:56,084 - INFO - complete exicution
+2024-05-10 16:59:56,084 - INFO - complete exicution
+2024-05-10 16:59:56,084 - INFO - complete exicution
+2024-05-10 16:59:56,084 - INFO - complete exicution
+2024-05-10 17:00:01,572 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:01,572 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:01,572 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:01,572 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:01,572 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:01,572 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:15,061 - INFO - **********Entering user name**********
+2024-05-10 17:00:15,061 - INFO - **********Entering user name**********
+2024-05-10 17:00:15,061 - INFO - **********Entering user name**********
+2024-05-10 17:00:15,061 - INFO - **********Entering user name**********
+2024-05-10 17:00:15,061 - INFO - **********Entering user name**********
+2024-05-10 17:00:15,061 - INFO - **********Entering user name**********
+2024-05-10 17:00:15,156 - INFO - ***********Entering the password*********
+2024-05-10 17:00:15,156 - INFO - ***********Entering the password*********
+2024-05-10 17:00:15,156 - INFO - ***********Entering the password*********
+2024-05-10 17:00:15,156 - INFO - ***********Entering the password*********
+2024-05-10 17:00:15,156 - INFO - ***********Entering the password*********
+2024-05-10 17:00:15,156 - INFO - ***********Entering the password*********
+2024-05-10 17:00:17,549 - INFO - *************Click on login button***********
+2024-05-10 17:00:17,549 - INFO - *************Click on login button***********
+2024-05-10 17:00:17,549 - INFO - *************Click on login button***********
+2024-05-10 17:00:17,549 - INFO - *************Click on login button***********
+2024-05-10 17:00:17,549 - INFO - *************Click on login button***********
+2024-05-10 17:00:17,549 - INFO - *************Click on login button***********
+2024-05-10 17:00:33,713 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:33,713 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:33,713 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:33,713 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:33,713 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:33,713 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:33,713 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:34,469 - INFO - **********Entering user name**********
+2024-05-10 17:00:34,469 - INFO - **********Entering user name**********
+2024-05-10 17:00:34,469 - INFO - **********Entering user name**********
+2024-05-10 17:00:34,469 - INFO - **********Entering user name**********
+2024-05-10 17:00:34,469 - INFO - **********Entering user name**********
+2024-05-10 17:00:34,469 - INFO - **********Entering user name**********
+2024-05-10 17:00:34,469 - INFO - **********Entering user name**********
+2024-05-10 17:00:34,610 - INFO - ***********Entering the password*********
+2024-05-10 17:00:34,610 - INFO - ***********Entering the password*********
+2024-05-10 17:00:34,610 - INFO - ***********Entering the password*********
+2024-05-10 17:00:34,610 - INFO - ***********Entering the password*********
+2024-05-10 17:00:34,610 - INFO - ***********Entering the password*********
+2024-05-10 17:00:34,610 - INFO - ***********Entering the password*********
+2024-05-10 17:00:34,610 - INFO - ***********Entering the password*********
+2024-05-10 17:00:36,308 - INFO - *************Click on login button***********
+2024-05-10 17:00:36,308 - INFO - *************Click on login button***********
+2024-05-10 17:00:36,308 - INFO - *************Click on login button***********
+2024-05-10 17:00:36,308 - INFO - *************Click on login button***********
+2024-05-10 17:00:36,308 - INFO - *************Click on login button***********
+2024-05-10 17:00:36,308 - INFO - *************Click on login button***********
+2024-05-10 17:00:36,308 - INFO - *************Click on login button***********
+2024-05-10 17:00:40,423 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:40,423 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:40,423 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:40,423 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:40,423 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:40,423 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:40,423 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:40,423 - INFO - *******Invoke the browser*********
+2024-05-10 17:00:51,867 - INFO - **********Entering user name**********
+2024-05-10 17:00:51,867 - INFO - **********Entering user name**********
+2024-05-10 17:00:51,867 - INFO - **********Entering user name**********
+2024-05-10 17:00:51,867 - INFO - **********Entering user name**********
+2024-05-10 17:00:51,867 - INFO - **********Entering user name**********
+2024-05-10 17:00:51,867 - INFO - **********Entering user name**********
+2024-05-10 17:00:51,867 - INFO - **********Entering user name**********
+2024-05-10 17:00:51,867 - INFO - **********Entering user name**********
+2024-05-10 17:00:52,011 - INFO - ***********Entering the password*********
+2024-05-10 17:00:52,011 - INFO - ***********Entering the password*********
+2024-05-10 17:00:52,011 - INFO - ***********Entering the password*********
+2024-05-10 17:00:52,011 - INFO - ***********Entering the password*********
+2024-05-10 17:00:52,011 - INFO - ***********Entering the password*********
+2024-05-10 17:00:52,011 - INFO - ***********Entering the password*********
+2024-05-10 17:00:52,011 - INFO - ***********Entering the password*********
+2024-05-10 17:00:52,011 - INFO - ***********Entering the password*********
+2024-05-10 17:00:53,212 - INFO - *************Click on login button***********
+2024-05-10 17:00:53,212 - INFO - *************Click on login button***********
+2024-05-10 17:00:53,212 - INFO - *************Click on login button***********
+2024-05-10 17:00:53,212 - INFO - *************Click on login button***********
+2024-05-10 17:00:53,212 - INFO - *************Click on login button***********
+2024-05-10 17:00:53,212 - INFO - *************Click on login button***********
+2024-05-10 17:00:53,212 - INFO - *************Click on login button***********
+2024-05-10 17:00:53,212 - INFO - *************Click on login button***********
+2024-05-10 17:01:08,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:01:08,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:01:08,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:01:08,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:01:08,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:01:08,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:01:08,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:01:08,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:01:08,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:01:09,190 - INFO - **********Entering user name**********
+2024-05-10 17:01:09,190 - INFO - **********Entering user name**********
+2024-05-10 17:01:09,190 - INFO - **********Entering user name**********
+2024-05-10 17:01:09,190 - INFO - **********Entering user name**********
+2024-05-10 17:01:09,190 - INFO - **********Entering user name**********
+2024-05-10 17:01:09,190 - INFO - **********Entering user name**********
+2024-05-10 17:01:09,190 - INFO - **********Entering user name**********
+2024-05-10 17:01:09,190 - INFO - **********Entering user name**********
+2024-05-10 17:01:09,190 - INFO - **********Entering user name**********
+2024-05-10 17:01:09,279 - INFO - ***********Entering the password*********
+2024-05-10 17:01:09,279 - INFO - ***********Entering the password*********
+2024-05-10 17:01:09,279 - INFO - ***********Entering the password*********
+2024-05-10 17:01:09,279 - INFO - ***********Entering the password*********
+2024-05-10 17:01:09,279 - INFO - ***********Entering the password*********
+2024-05-10 17:01:09,279 - INFO - ***********Entering the password*********
+2024-05-10 17:01:09,279 - INFO - ***********Entering the password*********
+2024-05-10 17:01:09,279 - INFO - ***********Entering the password*********
+2024-05-10 17:01:09,279 - INFO - ***********Entering the password*********
+2024-05-10 17:01:10,709 - INFO - *************Click on login button***********
+2024-05-10 17:01:10,709 - INFO - *************Click on login button***********
+2024-05-10 17:01:10,709 - INFO - *************Click on login button***********
+2024-05-10 17:01:10,709 - INFO - *************Click on login button***********
+2024-05-10 17:01:10,709 - INFO - *************Click on login button***********
+2024-05-10 17:01:10,709 - INFO - *************Click on login button***********
+2024-05-10 17:01:10,709 - INFO - *************Click on login button***********
+2024-05-10 17:01:10,709 - INFO - *************Click on login button***********
+2024-05-10 17:01:10,709 - INFO - *************Click on login button***********
+2024-05-10 17:03:31,540 - INFO - Invoke the browser
+2024-05-10 17:03:31,540 - INFO - Invoke the browser
+2024-05-10 17:03:31,583 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:31,583 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:37,907 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:37,907 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:42,526 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:42,526 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:42,585 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:42,585 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:43,008 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:43,008 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:43,138 - INFO - **********Entering user name**********
+2024-05-10 17:03:43,138 - INFO - **********Entering user name**********
+2024-05-10 17:03:43,315 - INFO - ***********Entering the password*********
+2024-05-10 17:03:43,315 - INFO - ***********Entering the password*********
+2024-05-10 17:03:43,474 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:43,474 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:43,750 - INFO - **********Entering user name**********
+2024-05-10 17:03:43,750 - INFO - **********Entering user name**********
+2024-05-10 17:03:43,765 - INFO - **********Entering user name**********
+2024-05-10 17:03:43,765 - INFO - **********Entering user name**********
+2024-05-10 17:03:43,863 - INFO - **********Entering user name**********
+2024-05-10 17:03:43,863 - INFO - **********Entering user name**********
+2024-05-10 17:03:44,017 - INFO - complete exicution
+2024-05-10 17:03:44,017 - INFO - complete exicution
+2024-05-10 17:03:44,091 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:44,091 - INFO - *******Invoke the browser*********
+2024-05-10 17:03:44,164 - INFO - ***********Entering the password*********
+2024-05-10 17:03:44,164 - INFO - ***********Entering the password*********
+2024-05-10 17:03:44,167 - INFO - ***********Entering the password*********
+2024-05-10 17:03:44,167 - INFO - ***********Entering the password*********
+2024-05-10 17:03:44,260 - INFO - **********Entering user name**********
+2024-05-10 17:03:44,260 - INFO - **********Entering user name**********
+2024-05-10 17:03:44,327 - INFO - **********Entering user name**********
+2024-05-10 17:03:44,327 - INFO - **********Entering user name**********
+2024-05-10 17:03:44,361 - INFO - ***********Entering the password*********
+2024-05-10 17:03:44,361 - INFO - ***********Entering the password*********
+2024-05-10 17:03:44,544 - INFO - ***********Entering the password*********
+2024-05-10 17:03:44,544 - INFO - ***********Entering the password*********
+2024-05-10 17:03:44,615 - INFO - ***********Entering the password*********
+2024-05-10 17:03:44,615 - INFO - ***********Entering the password*********
+2024-05-10 17:03:44,938 - INFO - **********Entering user name**********
+2024-05-10 17:03:44,938 - INFO - **********Entering user name**********
+2024-05-10 17:03:44,941 - INFO - *************Click on login button***********
+2024-05-10 17:03:44,941 - INFO - *************Click on login button***********
+2024-05-10 17:03:45,062 - INFO - ***********Entering the password*********
+2024-05-10 17:03:45,062 - INFO - ***********Entering the password*********
+2024-05-10 17:03:45,396 - INFO - *************Click on login button***********
+2024-05-10 17:03:45,396 - INFO - *************Click on login button***********
+2024-05-10 17:03:45,924 - INFO - *************Click on login button***********
+2024-05-10 17:03:45,924 - INFO - *************Click on login button***********
+2024-05-10 17:03:45,946 - INFO - *************Click on login button***********
+2024-05-10 17:03:45,946 - INFO - *************Click on login button***********
+2024-05-10 17:03:50,285 - INFO - *************Click on login button***********
+2024-05-10 17:03:50,285 - INFO - *************Click on login button***********
+2024-05-10 17:03:50,384 - INFO - *************Click on login button***********
+2024-05-10 17:03:50,384 - INFO - *************Click on login button***********
+2024-05-10 17:03:50,502 - INFO - *************Click on login button***********
+2024-05-10 17:03:50,502 - INFO - *************Click on login button***********
+2024-05-10 17:05:17,165 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:17,165 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:18,532 - INFO - Invoke the browser
+2024-05-10 17:05:18,532 - INFO - Invoke the browser
+2024-05-10 17:05:23,034 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:23,034 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:23,545 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:23,545 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:24,393 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:24,393 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:25,059 - INFO - **********Entering user name**********
+2024-05-10 17:05:25,059 - INFO - **********Entering user name**********
+2024-05-10 17:05:25,167 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:25,167 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:25,359 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:25,359 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:25,408 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:25,408 - INFO - *******Invoke the browser*********
+2024-05-10 17:05:25,485 - INFO - **********Entering user name**********
+2024-05-10 17:05:25,485 - INFO - **********Entering user name**********
+2024-05-10 17:05:26,645 - INFO - ***********Entering the password*********
+2024-05-10 17:05:26,645 - INFO - ***********Entering the password*********
+2024-05-10 17:05:27,048 - INFO - **********Entering user name**********
+2024-05-10 17:05:27,048 - INFO - **********Entering user name**********
+2024-05-10 17:05:27,408 - INFO - complete exicution
+2024-05-10 17:05:27,408 - INFO - complete exicution
+2024-05-10 17:05:27,501 - INFO - **********Entering user name**********
+2024-05-10 17:05:27,501 - INFO - **********Entering user name**********
+2024-05-10 17:05:27,548 - INFO - **********Entering user name**********
+2024-05-10 17:05:27,548 - INFO - **********Entering user name**********
+2024-05-10 17:05:27,708 - INFO - ***********Entering the password*********
+2024-05-10 17:05:27,708 - INFO - ***********Entering the password*********
+2024-05-10 17:05:27,759 - INFO - ***********Entering the password*********
+2024-05-10 17:05:27,759 - INFO - ***********Entering the password*********
+2024-05-10 17:05:27,931 - INFO - ***********Entering the password*********
+2024-05-10 17:05:27,931 - INFO - ***********Entering the password*********
+2024-05-10 17:05:27,991 - INFO - ***********Entering the password*********
+2024-05-10 17:05:27,991 - INFO - ***********Entering the password*********
+2024-05-10 17:05:28,111 - INFO - **********Entering user name**********
+2024-05-10 17:05:28,111 - INFO - **********Entering user name**********
+2024-05-10 17:05:28,161 - INFO - *************Click on login button***********
+2024-05-10 17:05:28,161 - INFO - *************Click on login button***********
+2024-05-10 17:05:28,207 - INFO - *************Click on login button***********
+2024-05-10 17:05:28,207 - INFO - *************Click on login button***********
+2024-05-10 17:05:28,471 - INFO - ***********Entering the password*********
+2024-05-10 17:05:28,471 - INFO - ***********Entering the password*********
+2024-05-10 17:05:28,981 - INFO - *************Click on login button***********
+2024-05-10 17:05:28,981 - INFO - *************Click on login button***********
+2024-05-10 17:05:30,893 - INFO - *************Click on login button***********
+2024-05-10 17:05:30,893 - INFO - *************Click on login button***********
+2024-05-10 17:05:31,230 - INFO - *************Click on login button***********
+2024-05-10 17:05:31,230 - INFO - *************Click on login button***********
+2024-05-10 17:05:31,348 - INFO - *************Click on login button***********
+2024-05-10 17:05:31,348 - INFO - *************Click on login button***********
+2024-05-10 17:05:32,288 - INFO - **********Entering user name**********
+2024-05-10 17:05:32,288 - INFO - **********Entering user name**********
+2024-05-10 17:05:32,413 - INFO - ***********Entering the password*********
+2024-05-10 17:05:32,413 - INFO - ***********Entering the password*********
+2024-05-10 17:05:34,213 - INFO - *************Click on login button***********
+2024-05-10 17:05:34,213 - INFO - *************Click on login button***********
+2024-05-10 17:10:15,200 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:15,200 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:15,845 - INFO - **********Entering user name**********
+2024-05-10 17:10:15,845 - INFO - **********Entering user name**********
+2024-05-10 17:10:15,935 - INFO - ***********Entering the password*********
+2024-05-10 17:10:15,935 - INFO - ***********Entering the password*********
+2024-05-10 17:10:17,211 - INFO - *************Click on login button***********
+2024-05-10 17:10:17,211 - INFO - *************Click on login button***********
+2024-05-10 17:10:24,357 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:24,357 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:24,357 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:26,948 - INFO - **********Entering user name**********
+2024-05-10 17:10:26,948 - INFO - **********Entering user name**********
+2024-05-10 17:10:26,948 - INFO - **********Entering user name**********
+2024-05-10 17:10:27,077 - INFO - ***********Entering the password*********
+2024-05-10 17:10:27,077 - INFO - ***********Entering the password*********
+2024-05-10 17:10:27,077 - INFO - ***********Entering the password*********
+2024-05-10 17:10:28,591 - INFO - *************Click on login button***********
+2024-05-10 17:10:28,591 - INFO - *************Click on login button***********
+2024-05-10 17:10:28,591 - INFO - *************Click on login button***********
+2024-05-10 17:10:37,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:37,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:37,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:37,440 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:38,041 - INFO - **********Entering user name**********
+2024-05-10 17:10:38,041 - INFO - **********Entering user name**********
+2024-05-10 17:10:38,041 - INFO - **********Entering user name**********
+2024-05-10 17:10:38,041 - INFO - **********Entering user name**********
+2024-05-10 17:10:38,157 - INFO - ***********Entering the password*********
+2024-05-10 17:10:38,157 - INFO - ***********Entering the password*********
+2024-05-10 17:10:38,157 - INFO - ***********Entering the password*********
+2024-05-10 17:10:38,157 - INFO - ***********Entering the password*********
+2024-05-10 17:10:39,936 - INFO - *************Click on login button***********
+2024-05-10 17:10:39,936 - INFO - *************Click on login button***********
+2024-05-10 17:10:39,936 - INFO - *************Click on login button***********
+2024-05-10 17:10:39,936 - INFO - *************Click on login button***********
+2024-05-10 17:10:45,756 - INFO - Invoke the browser
+2024-05-10 17:10:45,756 - INFO - Invoke the browser
+2024-05-10 17:10:45,756 - INFO - Invoke the browser
+2024-05-10 17:10:45,756 - INFO - Invoke the browser
+2024-05-10 17:10:45,756 - INFO - Invoke the browser
+2024-05-10 17:10:46,059 - INFO - complete exicution
+2024-05-10 17:10:46,059 - INFO - complete exicution
+2024-05-10 17:10:46,059 - INFO - complete exicution
+2024-05-10 17:10:46,059 - INFO - complete exicution
+2024-05-10 17:10:46,059 - INFO - complete exicution
+2024-05-10 17:10:56,523 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:56,523 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:56,523 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:56,523 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:56,523 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:56,523 - INFO - *******Invoke the browser*********
+2024-05-10 17:10:57,225 - INFO - **********Entering user name**********
+2024-05-10 17:10:57,225 - INFO - **********Entering user name**********
+2024-05-10 17:10:57,225 - INFO - **********Entering user name**********
+2024-05-10 17:10:57,225 - INFO - **********Entering user name**********
+2024-05-10 17:10:57,225 - INFO - **********Entering user name**********
+2024-05-10 17:10:57,225 - INFO - **********Entering user name**********
+2024-05-10 17:10:57,333 - INFO - ***********Entering the password*********
+2024-05-10 17:10:57,333 - INFO - ***********Entering the password*********
+2024-05-10 17:10:57,333 - INFO - ***********Entering the password*********
+2024-05-10 17:10:57,333 - INFO - ***********Entering the password*********
+2024-05-10 17:10:57,333 - INFO - ***********Entering the password*********
+2024-05-10 17:10:57,333 - INFO - ***********Entering the password*********
+2024-05-10 17:10:58,799 - INFO - *************Click on login button***********
+2024-05-10 17:10:58,799 - INFO - *************Click on login button***********
+2024-05-10 17:10:58,799 - INFO - *************Click on login button***********
+2024-05-10 17:10:58,799 - INFO - *************Click on login button***********
+2024-05-10 17:10:58,799 - INFO - *************Click on login button***********
+2024-05-10 17:10:58,799 - INFO - *************Click on login button***********
+2024-05-10 17:11:06,613 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:06,613 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:06,613 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:06,613 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:06,613 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:06,613 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:06,613 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:08,757 - INFO - **********Entering user name**********
+2024-05-10 17:11:08,757 - INFO - **********Entering user name**********
+2024-05-10 17:11:08,757 - INFO - **********Entering user name**********
+2024-05-10 17:11:08,757 - INFO - **********Entering user name**********
+2024-05-10 17:11:08,757 - INFO - **********Entering user name**********
+2024-05-10 17:11:08,757 - INFO - **********Entering user name**********
+2024-05-10 17:11:08,757 - INFO - **********Entering user name**********
+2024-05-10 17:11:08,860 - INFO - ***********Entering the password*********
+2024-05-10 17:11:08,860 - INFO - ***********Entering the password*********
+2024-05-10 17:11:08,860 - INFO - ***********Entering the password*********
+2024-05-10 17:11:08,860 - INFO - ***********Entering the password*********
+2024-05-10 17:11:08,860 - INFO - ***********Entering the password*********
+2024-05-10 17:11:08,860 - INFO - ***********Entering the password*********
+2024-05-10 17:11:08,860 - INFO - ***********Entering the password*********
+2024-05-10 17:11:10,607 - INFO - *************Click on login button***********
+2024-05-10 17:11:10,607 - INFO - *************Click on login button***********
+2024-05-10 17:11:10,607 - INFO - *************Click on login button***********
+2024-05-10 17:11:10,607 - INFO - *************Click on login button***********
+2024-05-10 17:11:10,607 - INFO - *************Click on login button***********
+2024-05-10 17:11:10,607 - INFO - *************Click on login button***********
+2024-05-10 17:11:10,607 - INFO - *************Click on login button***********
+2024-05-10 17:11:26,280 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:26,280 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:26,280 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:26,280 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:26,280 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:26,280 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:26,280 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:26,280 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:26,932 - INFO - **********Entering user name**********
+2024-05-10 17:11:26,932 - INFO - **********Entering user name**********
+2024-05-10 17:11:26,932 - INFO - **********Entering user name**********
+2024-05-10 17:11:26,932 - INFO - **********Entering user name**********
+2024-05-10 17:11:26,932 - INFO - **********Entering user name**********
+2024-05-10 17:11:26,932 - INFO - **********Entering user name**********
+2024-05-10 17:11:26,932 - INFO - **********Entering user name**********
+2024-05-10 17:11:26,932 - INFO - **********Entering user name**********
+2024-05-10 17:11:27,014 - INFO - ***********Entering the password*********
+2024-05-10 17:11:27,014 - INFO - ***********Entering the password*********
+2024-05-10 17:11:27,014 - INFO - ***********Entering the password*********
+2024-05-10 17:11:27,014 - INFO - ***********Entering the password*********
+2024-05-10 17:11:27,014 - INFO - ***********Entering the password*********
+2024-05-10 17:11:27,014 - INFO - ***********Entering the password*********
+2024-05-10 17:11:27,014 - INFO - ***********Entering the password*********
+2024-05-10 17:11:27,014 - INFO - ***********Entering the password*********
+2024-05-10 17:11:28,348 - INFO - *************Click on login button***********
+2024-05-10 17:11:28,348 - INFO - *************Click on login button***********
+2024-05-10 17:11:28,348 - INFO - *************Click on login button***********
+2024-05-10 17:11:28,348 - INFO - *************Click on login button***********
+2024-05-10 17:11:28,348 - INFO - *************Click on login button***********
+2024-05-10 17:11:28,348 - INFO - *************Click on login button***********
+2024-05-10 17:11:28,348 - INFO - *************Click on login button***********
+2024-05-10 17:11:28,348 - INFO - *************Click on login button***********
+2024-05-10 17:11:36,125 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:36,125 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:36,125 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:36,125 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:36,125 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:36,125 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:36,125 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:36,125 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:36,125 - INFO - *******Invoke the browser*********
+2024-05-10 17:11:36,701 - INFO - **********Entering user name**********
+2024-05-10 17:11:36,701 - INFO - **********Entering user name**********
+2024-05-10 17:11:36,701 - INFO - **********Entering user name**********
+2024-05-10 17:11:36,701 - INFO - **********Entering user name**********
+2024-05-10 17:11:36,701 - INFO - **********Entering user name**********
+2024-05-10 17:11:36,701 - INFO - **********Entering user name**********
+2024-05-10 17:11:36,701 - INFO - **********Entering user name**********
+2024-05-10 17:11:36,701 - INFO - **********Entering user name**********
+2024-05-10 17:11:36,701 - INFO - **********Entering user name**********
+2024-05-10 17:11:36,955 - INFO - ***********Entering the password*********
+2024-05-10 17:11:36,955 - INFO - ***********Entering the password*********
+2024-05-10 17:11:36,955 - INFO - ***********Entering the password*********
+2024-05-10 17:11:36,955 - INFO - ***********Entering the password*********
+2024-05-10 17:11:36,955 - INFO - ***********Entering the password*********
+2024-05-10 17:11:36,955 - INFO - ***********Entering the password*********
+2024-05-10 17:11:36,955 - INFO - ***********Entering the password*********
+2024-05-10 17:11:36,955 - INFO - ***********Entering the password*********
+2024-05-10 17:11:36,955 - INFO - ***********Entering the password*********
+2024-05-10 17:11:38,349 - INFO - *************Click on login button***********
+2024-05-10 17:11:38,349 - INFO - *************Click on login button***********
+2024-05-10 17:11:38,349 - INFO - *************Click on login button***********
+2024-05-10 17:11:38,349 - INFO - *************Click on login button***********
+2024-05-10 17:11:38,349 - INFO - *************Click on login button***********
+2024-05-10 17:11:38,349 - INFO - *************Click on login button***********
+2024-05-10 17:11:38,349 - INFO - *************Click on login button***********
+2024-05-10 17:11:38,349 - INFO - *************Click on login button***********
+2024-05-10 17:11:38,349 - INFO - *************Click on login button***********
+2024-05-10 17:20:09,849 - INFO - *******Invoke the browser*********
+2024-05-10 17:20:11,101 - INFO - **********Entering user name**********
+2024-05-10 17:20:11,205 - INFO - ***********Entering the password*********
+2024-05-10 17:20:12,801 - INFO - *************Click on login button***********
+2024-05-10 17:20:20,612 - INFO - *******Invoke the browser*********
+2024-05-10 17:20:20,612 - INFO - *******Invoke the browser*********
+2024-05-10 17:20:21,637 - INFO - **********Entering user name**********
+2024-05-10 17:20:21,637 - INFO - **********Entering user name**********
+2024-05-10 17:20:22,004 - INFO - ***********Entering the password*********
+2024-05-10 17:20:22,004 - INFO - ***********Entering the password*********
+2024-05-10 17:20:22,114 - INFO - *************Click on login button***********
+2024-05-10 17:20:22,114 - INFO - *************Click on login button***********
+2024-05-10 17:20:27,671 - INFO - *******Invoke the browser*********
+2024-05-10 17:20:27,671 - INFO - *******Invoke the browser*********
+2024-05-10 17:20:27,671 - INFO - *******Invoke the browser*********
+2024-05-10 17:20:57,658 - INFO - *******Invoke the browser*********
+2024-05-10 17:20:58,489 - INFO - **********Entering user name**********
+2024-05-10 17:20:58,640 - INFO - ***********Entering the password*********
+2024-05-10 17:20:58,737 - INFO - *************Click on login button***********
+2024-05-10 17:21:03,396 - INFO - *******Invoke the browser*********
+2024-05-10 17:21:03,396 - INFO - *******Invoke the browser*********
+2024-05-10 17:21:10,744 - INFO - **********Entering user name**********
+2024-05-10 17:21:10,744 - INFO - **********Entering user name**********
+2024-05-10 17:21:10,889 - INFO - ***********Entering the password*********
+2024-05-10 17:21:10,889 - INFO - ***********Entering the password*********
+2024-05-10 17:21:10,991 - INFO - *************Click on login button***********
+2024-05-10 17:21:10,991 - INFO - *************Click on login button***********
+2024-05-10 17:21:20,533 - INFO - *******Invoke the browser*********
+2024-05-10 17:21:20,533 - INFO - *******Invoke the browser*********
+2024-05-10 17:21:20,533 - INFO - *******Invoke the browser*********
+2024-05-10 17:21:21,771 - INFO - **********Entering user name**********
+2024-05-10 17:21:21,771 - INFO - **********Entering user name**********
+2024-05-10 17:21:21,771 - INFO - **********Entering user name**********
+2024-05-10 17:21:21,847 - INFO - ***********Entering the password*********
+2024-05-10 17:21:21,847 - INFO - ***********Entering the password*********
+2024-05-10 17:21:21,847 - INFO - ***********Entering the password*********
+2024-05-10 17:21:21,911 - INFO - *************Click on login button***********
+2024-05-10 17:21:21,911 - INFO - *************Click on login button***********
+2024-05-10 17:21:21,911 - INFO - *************Click on login button***********
+2024-05-10 17:24:45,443 - INFO - *******Invoke the browser*********
+2024-05-10 17:24:49,437 - INFO - **********Entering user name**********
+2024-05-10 17:24:49,549 - INFO - ***********Entering the password*********
+2024-05-10 17:24:49,633 - INFO - *************Click on login button***********
+2024-05-10 17:25:06,636 - INFO - *******Invoke the browser*********
+2024-05-10 17:25:06,636 - INFO - *******Invoke the browser*********
+2024-05-10 17:25:07,571 - INFO - **********Entering user name**********
+2024-05-10 17:25:07,571 - INFO - **********Entering user name**********
+2024-05-10 17:25:07,837 - INFO - ***********Entering the password*********
+2024-05-10 17:25:07,837 - INFO - ***********Entering the password*********
+2024-05-10 17:25:09,368 - INFO - *************Click on login button***********
+2024-05-10 17:25:09,368 - INFO - *************Click on login button***********
+2024-05-10 17:25:25,937 - INFO - *******Invoke the browser*********
+2024-05-10 17:25:25,937 - INFO - *******Invoke the browser*********
+2024-05-10 17:25:25,937 - INFO - *******Invoke the browser*********
+2024-05-10 17:25:26,745 - INFO - **********Entering user name**********
+2024-05-10 17:25:26,745 - INFO - **********Entering user name**********
+2024-05-10 17:25:26,745 - INFO - **********Entering user name**********
+2024-05-10 17:25:26,863 - INFO - ***********Entering the password*********
+2024-05-10 17:25:26,863 - INFO - ***********Entering the password*********
+2024-05-10 17:25:26,863 - INFO - ***********Entering the password*********
+2024-05-10 17:25:28,785 - INFO - *************Click on login button***********
+2024-05-10 17:25:28,785 - INFO - *************Click on login button***********
+2024-05-10 17:25:28,785 - INFO - *************Click on login button***********
+2024-05-10 17:25:48,410 - INFO - *******Invoke the browser*********
+2024-05-10 17:25:52,253 - INFO - **********Entering user name**********
+2024-05-10 17:25:52,363 - INFO - ***********Entering the password*********
+2024-05-10 17:25:52,449 - INFO - *************Click on login button***********
+2024-05-10 17:26:11,140 - INFO - *******Invoke the browser*********
+2024-05-10 17:26:11,787 - INFO - **********Entering user name**********
+2024-05-10 17:26:11,888 - INFO - ***********Entering the password*********
+2024-05-10 17:26:14,214 - INFO - *************Click on login button***********

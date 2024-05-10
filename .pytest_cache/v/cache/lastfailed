@@ -1,0 +1,7 @@
+{
+  "Lib/site-packages/trio/_tests/test_dtls.py": true,
+  "Lib/site-packages/trio/_tests/test_highlevel_ssl_helpers.py": true,
+  "Lib/site-packages/trio/_tests/test_ssl.py": true,
+  "Lib/site-packages/trio/_tests/tools/test_gen_exports.py": true,
+  "TestCases/test_facebook_login.py::TestFacebook::test_login": true
+}

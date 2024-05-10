@@ -1,0 +1,4 @@
+[32mINFO    [0m piyush:test_orangeHRM_login.py:17 *******Invoke the browser*********
+[32mINFO    [0m piyush:test_orangeHRM_login.py:20 **********Entering user name**********
+[32mINFO    [0m piyush:test_orangeHRM_login.py:22 ***********Entering the password*********
+[32mINFO    [0m piyush:test_orangeHRM_login.py:24 *************Click on login button***********
