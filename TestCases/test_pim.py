@@ -16,7 +16,7 @@ class Test_PIM(TestOrangeLogin):
         TestOrangeLogin.test_login(self,setup_orangeHRM)
 
         self.pim = PIM(self.driver)
-        # self.driver.implicitly_wait(10)
+        self.driver.implicitly_wait(10)
         self.pim.pim_click()
         self.pim.click_add_button()
         self.pim.employee_name("Piyush")
@@ -32,6 +32,7 @@ class Test_PIM(TestOrangeLogin):
         else:
             print("Fail")
             self.driver.save_screenshot(r"C:\Users\ASUS\PycharmProjects\RahulShetty\Screenshots\PIM.jpg")
+            print("testing push")
 
 
 
