@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="53229d0c-dc7f-44d0-9240-800f7a88cff7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Configuration/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/Generatelog.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Generatelog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/readProperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/readProperties.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/logging.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
