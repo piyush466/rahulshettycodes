@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53229d0c-dc7f-44d0-9240-800f7a88cff7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="53229d0c-dc7f-44d0-9240-800f7a88cff7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,8 +122,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Python tests for test_myInfo_page.Test_MyInfo.test_myinfo" />
       <item itemvalue="Python tests.Python tests for conftest.test_login" />
+      <item itemvalue="Python tests.Python tests for test_myInfo_page.Test_MyInfo.test_myinfo" />
       <item itemvalue="Python tests.Python tests for test_orangeHRM_login.TestOrangeLogin.test_login" />
       <item itemvalue="Python tests.Python tests for test_pim.Test_PIM.test_pim_page" />
       <item itemvalue="Python tests.Python tests in conftest.py" />
