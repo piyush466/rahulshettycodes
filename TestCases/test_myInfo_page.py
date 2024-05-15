@@ -25,7 +25,7 @@ class Test_MyInfo:
         # assert self.driver == "OrangeHRM", " fail test"
         if self.driver.title == "OrangeHRM":
             self.logs.info("*********your test is pass**********")
-            print("hellllllllllll")
+            print("main to piyush")
 
         else:
             self.logs.error("***********Your test is fail***************")
