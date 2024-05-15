@@ -47,14 +47,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/rahulshettycodes",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/PycharmProjects/rahulshettycodes&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_myInfo_page.Test_MyInfo.test_myinfo">
     <configuration name="Python tests for conftest.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="RahulShetty" />
@@ -127,8 +127,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Python tests for test_myInfo_page.Test_MyInfo.test_myinfo" />
       <item itemvalue="Python tests.Python tests for conftest.test_login" />
+      <item itemvalue="Python tests.Python tests for test_myInfo_page.Test_MyInfo.test_myinfo" />
       <item itemvalue="Python tests.Python tests for test_orangeHRM_login.TestOrangeLogin.test_login" />
       <item itemvalue="Python tests.Python tests for test_pim.Test_PIM.test_pim_page" />
       <item itemvalue="Python tests.Python tests in conftest.py" />
