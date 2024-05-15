@@ -1,2 +1,0 @@
-[32mINFO    [0m piyush:test_facebook_login.py:13 Invoke the browser
-[32mINFO    [0m piyush:test_facebook_login.py:17 complete exicution

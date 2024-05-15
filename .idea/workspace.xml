@@ -5,12 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53229d0c-dc7f-44d0-9240-800f7a88cff7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/RahulShetty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RahulShetty.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_orangeHRM_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_orangeHRM_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Generatelog.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Generatelog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/PIM_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/PIM_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.nu" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/activate.nu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/activate_this.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/activate_this.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/deactivate.nu" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/deactivate.nu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip-3.10.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pip-3.10.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip3.10.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pip3.10.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/py.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/py.test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/pytest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pytest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel-3.10.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/wheel-3.10.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/wheel.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel3.10.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/wheel3.10.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/wheel3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/wheel3.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestCases/test_pim.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_pim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/08e39dc8-23b0-425a-8847-ec3a5d4ae071-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/17967014-3d00-421f-8bd3-5ec735eac00f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/1b9bc007-5b12-4d1a-afdc-1941c85f0fee-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/22a16655-7ba0-4772-9225-92452518ee8c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/2ac6f521-42a1-4356-be1f-27930db60e3f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/33ecccf8-a5e1-4419-a44a-3e5b252b061c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/365cc235-5a52-4317-b1a2-7a9ee0efdab3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/496e0eff-c324-4807-9ef7-333c1992a844-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/53f9c383-2ff8-4d47-a973-441ae341969d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/58635e94-1b5a-42c3-9925-e3ded5ab631c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/588c7b7b-eac9-42f7-85dc-0bccdfac1715-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/5a471010-7ea1-4235-a0c4-d51254cc3b8d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/5d5333dc-fa3f-4c69-9e51-39a2ee0f1b90-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/6368dd7c-d929-44ad-b42d-8024992e304f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/7ad46190-12b6-4165-8781-080c756d96f5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/7c7a3b52-7754-4f3d-a57a-527153ea1bad-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/7ed091e8-f8a4-4e16-b81c-1752b3f08f65-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/88019197-01c2-4585-9d87-6bb0f397099e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/8bda0cd2-5a7e-4bc4-b1de-1338b286f1c2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/979272e1-5b92-40a7-b396-80a459963c45-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/b6af285e-aada-412e-9caf-57547d09a383-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/bae0edff-0a46-4f22-a2f3-e0d5f3e36aaa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/dbc5bb85-b2b3-48a0-b61b-04c9fdcaee01-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/e38620c4-79b4-4aea-89da-266cc7153a3a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/e39ea6dd-2371-4ff1-8275-f1cafb04246c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/e3d7ccfd-9ec3-4b0f-b8f6-03f14007df2c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/e6456fa8-9140-4b59-aa8f-a8235253ddb1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/e8c8f90c-94e5-4ded-8e4c-963128bc3c1a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/e9766bc5-1ad9-4005-a7b0-538cd1efab78-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/f29a0e5f-f3f4-42fd-a986-7991659f3640-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_report/fe5edebb-94e3-43a9-9d2f-d84e351f691f-attachment.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +76,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Logs/Generatelog.log" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Configuration/config.ini" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logs/Generatelog.log" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PageObject/FacebookLogin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PageObject/OrangeHRM_Login.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PageObject/PIM_Page.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestCases/conftest.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestCases/test_facebook_login.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/TestCases/test_orangeHRM_login.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Utilities/logging.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/TestCases/test_pim.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utilities/logging.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utilities/readProperties.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,14 +97,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/BehaveBDDFramework/rahulshettycodes",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/PycharmProjects/rahulshettycodes/TestCases&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_pim.Test_PIM.test_pim_page">
     <configuration name="Python tests for conftest.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="RahulShetty" />
@@ -100,9 +152,9 @@
       <module name="RahulShetty" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\ASUS\PycharmProjects\rahulshettycodes\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
@@ -124,6 +176,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python tests.Python tests for conftest.test_login" />
+      <item itemvalue="Python tests.Python tests for test_leave_page.TestLeave.test_leave" />
+      <item itemvalue="Python tests.Python tests for test_orangeHRM_login.TestOrangeLogin.test_login" />
+      <item itemvalue="Python tests.Python tests for test_pim.Test_PIM.test_pim_page" />
+      <item itemvalue="Python tests.Python tests in conftest.py" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests for test_pim.Test_PIM.test_pim_page" />
