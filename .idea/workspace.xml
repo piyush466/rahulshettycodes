@@ -28,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/PageObject/PIM_Page.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestCases/conftest.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestCases/test_facebook_login.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/TestCases/test_myInfo_page.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestCases/test_orangeHRM_login.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestCases/test_pim.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utilities/logging.py" root0="FORCE_HIGHLIGHTING" />
