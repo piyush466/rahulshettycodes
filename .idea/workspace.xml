@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53229d0c-dc7f-44d0-9240-800f7a88cff7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Configuration/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/Generatelog.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/MyInfo_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/MyInfo_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities/readProperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/readProperties.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +25,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Configuration/config.ini" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PageObject/FacebookLogin.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PageObject/MyInfo_Page.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PageObject/OrangeHRM_Login.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PageObject/PIM_Page.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestCases/conftest.py" root0="FORCE_HIGHLIGHTING" />
