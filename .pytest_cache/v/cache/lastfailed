@@ -4,6 +4,7 @@
   "Lib/site-packages/trio/_tests/test_ssl.py": true,
   "Lib/site-packages/trio/_tests/tools/test_gen_exports.py": true,
   "TestCases/test_facebook_login.py::TestFacebook::test_login": true,
-  "TestCases/test_facebook_login.py": true,
-  "TestCases/test_pim.py": true
+  "TestCases/test_facebook_login.py::TestFacebook": true,
+  "TestCases/test_pim.py::TestOrangeLogin": true,
+  "TestCases/test_pim.py::Test_PIM": true
 }

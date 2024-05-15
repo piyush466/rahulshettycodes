@@ -20,3 +20,8 @@ class ReadProperties:
     def userlnamee():
         lname = config.get("common info", "lname")
         return lname
+
+    @staticmethod
+    def username_of_myinfo():
+        username = config.get("MyInfo page", "usernmae")
+        return username
