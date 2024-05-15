@@ -25,3 +25,20 @@ class ReadProperties:
     def username_of_myinfo():
         username = config.get("MyInfo page", "usernmae")
         return username
+
+    # MyInfo Locators
+    @staticmethod
+    def myinfo_btn_xpath():
+        myinfo_xpath = config.get("MyInfo Locators","myinfo_btn_xpath")
+        return myinfo_xpath
+
+    @staticmethod
+    def enter_name():
+        enter_name = config.get("MyInfo Locators", "enter_name")
+        return enter_name
+
+    @staticmethod
+    def save_btn_xpath():
+        save_btn_xpath = config.get("MyInfo Locators", "save_btn_xpath")
+        return save_btn_xpath
+
