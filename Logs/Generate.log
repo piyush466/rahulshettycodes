@@ -5,3 +5,7 @@
 2024-05-15 18:34:47,721 - INFO - Locator is "//span[text()='My Info']" and click on myinfo button
 2024-05-15 18:36:03,683 - INFO - Locator is "//span[text()='My Info']" and click on myinfo button
 2024-05-15 18:36:14,901 - INFO - *********your test is pass**********
+2024-05-15 19:00:26,998 - INFO - Locator is "//span[text()='My Info']" and click on myinfo button
+2024-05-15 19:00:38,406 - INFO - *********your test is pass**********
+2024-05-15 19:01:51,522 - INFO - Locator is "//span[text()='My Info']" and click on myinfo button
+2024-05-15 19:02:02,751 - INFO - *********your test is pass**********
