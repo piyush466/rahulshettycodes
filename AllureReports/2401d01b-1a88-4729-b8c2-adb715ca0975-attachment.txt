@@ -1,0 +1,2 @@
+[32mINFO    [0m piyush:test_pim.py:23 test is starting
+[1m[31mERROR   [0m piyush:test_pim.py:41 Test is fail
